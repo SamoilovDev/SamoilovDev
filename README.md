@@ -6,48 +6,48 @@ I am an experienced Java Developer with a strong foundation in microservices arc
 ---
 
 ### 🛠 Tech Stack
+
 <p align="left">
   <!-- Programming languages -->
-  <img src="https://img.shields.io/badge/-007396?style=for-the-badge&logo=java&logoColor=white" height="40" />
-  <img src="https://img.shields.io/badge/-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" height="40" />
-  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="50" height="50"/>
+
   <!-- Spring Framework -->
-  <img src="https://img.shields.io/badge/-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" height="40" />
-  <img src="https://img.shields.io/badge/-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring" width="50" height="50"/>
   
-  <!-- Databases & ORM -->
-  <img src="https://img.shields.io/badge/-316192?style=for-the-badge&logo=postgresql&logoColor=white" height="40" />
-  <img src="https://img.shields.io/badge/-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="40" />
-  <img src="https://img.shields.io/badge/-47A248?style=for-the-badge&logo=mongodb&logoColor=white" height="40" />
-  <img src="https://img.shields.io/badge/-DC382D?style=for-the-badge&logo=redis&logoColor=white" height="40" />
-
   <!-- Security -->
-  <img src="https://img.shields.io/badge/-4285F4?style=for-the-badge&logo=keycloak&logoColor=white" height="40" />
-  
-  <!-- Version control -->
-  <img src="https://img.shields.io/badge/-F05032?style=for-the-badge&logo=git&logoColor=white" height="40" />
-  <img src="https://img.shields.io/badge/-181717?style=for-the-badge&logo=github&logoColor=white" height="40" />
-  <img src="https://img.shields.io/badge/-FCA121?style=for-the-badge&logo=gitlab&logoColor=white" height="40" />
+  <img src="https://img.icons8.com/color/48/000000/security-checked.png" alt="Security" width="50" height="50"/>
 
-  <!-- Build tools -->
-  <img src="https://img.shields.io/badge/-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" height="40" />
-  <img src="https://img.shields.io/badge/-02303A?style=for-the-badge&logo=gradle&logoColor=white" height="40" />
+  <!-- Databases -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" width="50" height="50"/>
+
+  <!-- Version Control -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="GitLab" width="50" height="50"/>
+
+  <!-- Build Tools -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" alt="Maven" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/gradle/gradle-icon.svg" alt="Gradle" width="50" height="50"/>
 
   <!-- Messaging -->
-  <img src="https://img.shields.io/badge/-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" height="40" />
-  <img src="https://img.shields.io/badge/-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="Kafka" width="50" height="50" style="background-color: white; border-radius: 5px;"/>
+  <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="RabbitMQ" width="50" height="50"/>
 
-  <!-- Deployment & DevOps -->
-  <img src="https://img.shields.io/badge/-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" height="40" />
-  <img src="https://img.shields.io/badge/-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="40" />
-  <img src="https://img.shields.io/badge/-D24939?style=for-the-badge&logo=jenkins&logoColor=white" height="40" />
-
+  <!-- DevOps & Deployment -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="50" height="50"/>
+  
   <!-- Frontend -->
-  <img src="https://img.shields.io/badge/-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="40" />
-  <img src="https://img.shields.io/badge/-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="40" />
-  <img src="https://img.shields.io/badge/-3178C6?style=for-the-badge&logo=typescript&logoColor=white" height="40" />
-  <img src="https://img.shields.io/badge/-61DAFB?style=for-the-badge&logo=react&logoColor=white" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50"/>
 </p>
+
 ---
 
 ### 🌟 Featured Projects
@@ -71,4 +71,6 @@ Here are a few projects that highlight my skills and interests:
 - Email: vladimir.samoilov.dev@gmail.com
 - Telegram: [@samoilov_vl](https://t.me/samoilov_vl)
 
-Thank you for visiting my profile! Feel free to explore my projects, contribute, or reach out via any of the channels listed above. Have a great day! 🚀
+---
+
+P.S. Thank you for visiting my profile! Feel free to explore my projects, contribute, or reach out via any of the channels listed above. Have a great day! 🚀
