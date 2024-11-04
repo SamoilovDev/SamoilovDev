@@ -55,7 +55,7 @@ Here are a few projects that highlight my skills and interests:
 
 - [**Telegram Bot for Gmail**](https://github.com/SamoilovDev/telegram-bot-for-gmail) — A Telegram bot integrated with the Gmail API to receive notifications about new emails automatically.
 - [**Account Service API**](https://github.com/SamoilovDev/account-service-api) — A Spring Boot API for account management, supporting CRUD operations and JWT authorization.
-- [**Crypto Stat Tracker**](https://github.com/SamoilovDev/crypto-stat-tracker) — A real-time cryptocurrency price tracking service using the Binance API.
+- [**Crypto Stat Tracker**](https://github.com/SamoilovDev/crypto-stat-tracker) — A real-time cryptocurrency price tracking service.
 
 ---
 
